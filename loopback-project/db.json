@@ -1,0 +1,13 @@
+{
+  "ids": {
+    "product": 5
+  },
+  "models": {
+    "product": {
+      "1": "{\"id\":1,\"name\":\"Batata\",\"qtd\":12}",
+      "2": "{\"name\":\"Feijão\",\"qtd\":3,\"id\":2}",
+      "3": "{\"name\":\"Sabonete\",\"qtd\":24,\"id\":3}",
+      "4": "{\"name\":\"Cenoura\",\"qtd\":3,\"id\":4}"
+    }
+  }
+}
