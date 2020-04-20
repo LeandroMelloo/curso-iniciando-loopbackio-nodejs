@@ -15,7 +15,8 @@ $(document).ready(function() {
                     '    <td>' + product.name + '</td>' +
                     '    <td>' + product.qtd + '</td>' +
                     '    <td>' +
-                    '       <button id="btn-delete" data-id="' + product.id + '" type="button" class="btn btn-warning">Remove</button>' +
+                    '       <button id="btn-delete" data-id="' + product.id +
+                    '" type="button" class="btn btn-warning">Remove</button>' +
                     '    </td>' +
                     '</tr>';
 
